@@ -20,6 +20,18 @@ function ilkiniDon(stringArray, callback) {
 }
 console.log('örnek görev:', ilkiniDon(['as','sa'],function(metin){return metin+metin}));
 
+
+
+
+
+// CALLBACK İÇİN ARAŞTIRMA YAPTIM, MANTIĞINI ANLAMAYA ÇALIŞTIM ANCAK UYGULAYAMADIM.
+//ETÜTTEN SONRA ÇALIŞIP TEKRAR ÇÖZMEYE ÇALIŞACAĞIM.
+
+
+
+
+
+
 // Başlangıç Challenge'ı Sonu
 
 
